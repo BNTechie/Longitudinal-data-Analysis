@@ -1,6 +1,18 @@
 # Mixed effect model for longitudinal data
 A mixed-effects model in statistics is a type of statistical model that incorporates both fixed effects and random effects. These models are beneficial for analyzing data where observations are grouped or clustered, such as in longitudinal studies where repeated measurements are taken on the same subjects over time.
 
+## Key Concepts:
+
+**Fixed Effects:**
+
+Definition: Fixed effects represent the average, or overall, impact of explanatory variables (predictors) on the response variable. These effects are assumed to be the same across all individuals or groups in the study.
+Example: In a study examining the effect of a drug on blood pressure, a fixed effect might be the overall average reduction in blood pressure attributed to the drug.
+Random Effects:
+
+Definition: Random effects account for variability at the individual or group level that is not explained by the fixed effects. They allow each group or individual to have its own intercept and/or slope, acknowledging that these may differ across groups or individuals.
+Example: In the same drug study, random effects could account for the fact that different patients might have different baseline blood pressure levels and might respond differently to the drug.
+
+
 
 
 #### Why mixed effect models are important for longitudinal data analysis?

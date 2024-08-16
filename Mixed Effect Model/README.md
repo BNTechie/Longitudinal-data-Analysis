@@ -1,4 +1,5 @@
-A mixed-effects model in statistics is a type of statistical model that incorporates both fixed effects and random effects. These models are particularly useful for analyzing data where observations are grouped or clustered, such as in longitudinal studies where repeated measurements are taken on the same subjects over time.
+# Mixed effect model for longitudinal data
+A mixed-effects model in statistics is a type of statistical model that incorporates both fixed effects and random effects. These models are beneficial for analyzing data where observations are grouped or clustered, such as in longitudinal studies where repeated measurements are taken on the same subjects over time.
 
 
 

@@ -1,3 +1,3 @@
 # Estimation-of-grrowthrates
 
-### Reference: https://tpetzoldt.github.io/growthrates/doc/Introduction.htm
+ Reference: https://tpetzoldt.github.io/growthrates/doc/Introduction.html
